@@ -44,10 +44,6 @@ export default function Hero() {
               Get Started 
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </button>
-            <button className="relative overflow-hidden border-2 border-white text-white px-8 py-4 rounded-full font-semibold transition-all hover:shadow-lg hover:shadow-white/20 group">
-              <span className="relative z-10">Watch Demo</span>
-              <div className="absolute inset-0 bg-white/0 group-hover:bg-white/10 transition-colors"></div>
-            </button>
           </div>
         </div>
       </div>

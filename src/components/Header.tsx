@@ -27,7 +27,7 @@ export default function Header() {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
             <GraduationCap className="w-8 h-8 text-white" />
-            <span className="text-2xl font-bold text-white">EduManage</span>
+            <span className="text-2xl font-bold text-white">codecollab.in</span>
           </div>
 
           {/* Desktop Navigation */}

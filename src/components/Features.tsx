@@ -9,17 +9,17 @@ const features = [
   },
   {
     icon: Users,
-    title: 'Teacher Management',
+    title: 'Skill development',
     description: 'Efficiently manage Teacher records, admissions, and academic progress tracking.'
   },
   {
     icon: Users,
-    title: 'Staff Management',
+    title: 'Mental Health Support',
     description: 'Efficiently manage non-educational staff records.'
   },
   {
     icon: Calendar,
-    title: 'Course Scheduling',
+    title: 'Career Guidance',
     description: 'Smart scheduling system for classes, exams, and extracurricular activities.'
   },
   {
